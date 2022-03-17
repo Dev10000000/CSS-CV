@@ -1,0 +1,148 @@
+body {
+  background-image: url("https://wallpapercave.com/wp/wp2406557.jpg");
+  text-align: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.top-container {
+  padding-top: 40px;
+  width: 50%;
+  margin: 0 auto;
+}
+
+
+
+.cot {
+  font-size: 2.3rem;
+
+}
+
+.op{
+  font-family: 'Sacramento', serif;
+  font-size: 562%;
+  margin: 0;
+  color: #FFCE45;
+}
+
+
+h1 {
+  /* width:80%;
+margin: 0 auto; */
+  font-family: 'Sacramento', serif;
+  font-size: 562%;
+  margin: 0;
+  color: #FFCE45;
+}
+
+hr {
+  margin-top: 20px;
+  ;
+}
+
+p {
+  margin-top: 0;
+  font-family: 'Jost', sans-serif;
+  font-size: 2rem;
+  color: #911F27;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.college {
+  font-size: 1.2rem;
+}
+
+.middle-container {
+  width: 50%;
+  margin: 0 auto;
+}
+
+
+
+h2 {
+  font-family: 'Sacramento', serif;
+  font-size: 3rem;
+  color: #FFCE45;
+  margin-bottom: 0;
+
+}
+
+.java {
+  width: 10%;
+  height: 10%;
+  margin-top: 10px;
+}
+
+.html {
+  width: 10%;
+  height: 10%;
+  margin-top: 10px;
+}
+
+.css {
+  width: 10%;
+  height: 10%;
+  margin-top: 10px;
+}
+.sql {
+  width: 10%;
+  height: 10%;
+  margin-top: 10px;
+}
+.ui{
+  width: 50%;
+  margin: 0 auto;
+
+
+}
+.layers{
+  width: 20%;
+
+
+}
+.head{
+  margin-top: 2px;
+}
+.si{
+  width: 50%;
+  margin: 0 auto;
+}
+hr{
+
+}
+.ti{
+width: 30%;
+
+
+
+}
+.layer{
+  width: 20%;
+
+margin-right: 590px;
+
+
+}
+a:hover{
+  background: #FFCE45;
+color: #28FFBF;
+
+}
+.zi:hover{
+  background-color:#FFCE45; ;
+
+
+}
+.zi{
+  font-size: 1.3rem;
+}
+.xi{
+  font-size: 0.8rem;
+}
+.i{
+color:  #28FFBF;
+}
